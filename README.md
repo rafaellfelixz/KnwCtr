@@ -9,7 +9,7 @@ It contains specific, non-public documentation and code examples.
 
 **All documentation, including Markdown files and detailed explanations within this repository, is written exclusively in Portuguese.**
 
-This choice was made to provide a cdlearer, more accessible structure for the primary user. **English translation will not be provided for the main content.**
+This choice was made to provide a clearer, more accessible structure for the primary user. **English translation will not be provided for the main content.**
 
 I, Rafael, strongly discourage the translation of MarkDown files within the project since it is not guaranteed to be accurate (straight to the point).
 ---
